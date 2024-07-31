@@ -2,7 +2,7 @@ I can explain the Transformer architecture in simple terms.
 Let's break it down step-by-step.
 
 ### Introduction
-The Transformer architecture, introduced in the paper **"Attention is All You Need,"** is a model used for tasks like translating text, generating text, and more. It's a deep learning model that uses a method called self-attention to understand sequences of data.
+The Transformer architecture, introduced in the paper **"Attention is All You Need,"** is a model used for tasks like translating text, generating text, and more. **It's a deep learning model that uses a method called self-attention to understand sequences of data.**
 
 ### Core Concepts
 
